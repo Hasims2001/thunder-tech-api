@@ -1,14 +1,20 @@
 {
-  "name": "thunder-tech",
+  "name": "thundertech",
   "version": "1.0.0",
-  "description": "",
+  "description": "Construct Week (Thunder-Tech) Project API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasims2001/thunder-tech.git"
+  },
+  "author": "Hasim",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasims2001/thunder-tech/issues"
+  },
   "dependencies": {
     "json-server": "^0.17.3"
   }
